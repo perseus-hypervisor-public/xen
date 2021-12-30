@@ -1,0 +1,5 @@
+config DSM_PROXY
+	boolean "Enable device security monitor interface"
+	default y
+	help
+	  This option enables device security monitor interface
